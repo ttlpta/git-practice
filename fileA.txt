@@ -1,2 +1,4 @@
 this is file A.aaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbb
+
