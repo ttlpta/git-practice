@@ -1,0 +1,3 @@
+[submodule "learn-submodule"]
+	path = learn-submodule
+	url = git@github.com:ttlpta/nightwatch-tranning.git
