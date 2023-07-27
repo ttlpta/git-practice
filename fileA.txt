@@ -2,3 +2,7 @@ this is file A.aaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaa
 bbbb
 
+
+my feature edit 1
+my feature edit 2
+
